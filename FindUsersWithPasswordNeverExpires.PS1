@@ -1,5 +1,5 @@
 <#
-Creates a CSV with all AD account that have Password set to never expire
+Creates a list with all AD account that have Password set to never expire
 Pipes list out to a text file on the users desktop
 #>
 
