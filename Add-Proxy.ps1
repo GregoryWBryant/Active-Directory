@@ -1,8 +1,6 @@
 ﻿<#
 CSV should inclue email,and aliases
 Aliases can be left blank and if more than one aliases in included it should be seperated by commas.
-
-
 #>
 
 $Users = Import-Csv -Path "CSV Location"
